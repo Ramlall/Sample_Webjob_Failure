@@ -1,0 +1,9 @@
+C:\work\Sample_Webjob_Failure\bin\Debug\Sample_Webjob_Failure.exe.config
+C:\work\Sample_Webjob_Failure\bin\Debug\Sample_Webjob_Failure.exe
+C:\work\Sample_Webjob_Failure\bin\Debug\Sample_Webjob_Failure.pdb
+C:\work\Sample_Webjob_Failure\obj\Debug\Sample_Webjob_Failure.csprojResolveAssemblyReference.cache
+C:\work\Sample_Webjob_Failure\obj\Debug\Sample_Webjob_Failure.Form1.resources
+C:\work\Sample_Webjob_Failure\obj\Debug\Sample_Webjob_Failure.Properties.Resources.resources
+C:\work\Sample_Webjob_Failure\obj\Debug\Sample_Webjob_Failure.csproj.GenerateResource.Cache
+C:\work\Sample_Webjob_Failure\obj\Debug\Sample_Webjob_Failure.exe
+C:\work\Sample_Webjob_Failure\obj\Debug\Sample_Webjob_Failure.pdb
